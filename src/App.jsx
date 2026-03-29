@@ -283,11 +283,10 @@ export default function App() {
         animate={{ opacity: 1, y: 0 }}
         className="hero"
       >
-        <h1>Fourier Concepts, Side by Side</h1>
+        <h1>Fourier Concepts</h1>
         <p>
           Compare Fourier Series, Fourier Transform, DTFT, DFT, and FFT through
-          an interactive concept table, signal playground, and quiz for
-          undergraduate computing students.
+          an interactive concept table, signal playground, and quiz.
         </p>
       </motion.div>
 
